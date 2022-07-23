@@ -4,7 +4,7 @@ I'm Rishav Raj, a developer and final-year mechanical engineering student who di
 I have in-depth knowledge of **Frontend Development** and currently, I am learning **Full Stack Development** & **Data Structures**, and **Algorithms**. Apart from this, I also write [Technical Blogs](https://dev.to/iamrishavraj1) 📰.
 
 ### My current specialization in
-+ Programming Languages: JavaScript, TypeScript, Java
-+ Web Technologies: HTML, CSS, Bootstrap, ReactJS, NextJS, NodeJS, ExpressJS, JWT, RESTful APIs, MVC
-+ Databases: MongoDB, Firebase
-+ Other Tools: Data Structure & Algorithm, Object-Oriented Programming, Git, Linux, Postman, Agile
++ **Programming Languages**: JavaScript, TypeScript, Java
++ **Web Technologies**: HTML, CSS, Bootstrap, ReactJS, NextJS, NodeJS, ExpressJS, JWT, RESTful APIs, MVC
++ **Databases**: MongoDB, Firebase
++ **Other Tools**: Data Structure & Algorithm, Object-Oriented Programming, Git, Linux, Postman, Agile
