@@ -8,5 +8,5 @@ I have in-depth knowledge of **Frontend Development** and currently, I am learni
 + **Web Technologies**: HTML, CSS, Bootstrap, ReactJS, NextJS, NodeJS, ExpressJS, JWT, RESTful APIs, MVC
 + **Databases**: MongoDB, Firebase
 + **Other Tools**: Data Structure & Algorithm, Object-Oriented Programming, Git, Linux, Postman, Agile
-'
+
 ### You may discover more about me by reviewing my [Resume](https://drive.google.com/file/d/1c44-uXeiwLia_HXw-i7fHnEDw9MqeXyo/view?usp=sharing) and thank you for taking the time to look over my profile.
