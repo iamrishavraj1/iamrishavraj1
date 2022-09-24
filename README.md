@@ -9,4 +9,4 @@ I have in-depth knowledge of **Frontend Development** and currently, I am learni
 + **Databases**: MongoDB, Firebase
 + **Other Tools**: Data Structure & Algorithm, Object-Oriented Programming, Git, Linux, Postman, Agile
 
-### You may discover more about me by reviewing my [Resume](https://drive.google.com/file/d/1pDO2H-8kNMC6b36UBBa7wWM_mn6i6Llb/view) and thank you for taking the time to look over my profile.
+### You may discover more about me by reviewing my [Resume](https://drive.google.com/file/d/1N-QLnSAQgDFttO5nMifkiDnmt6c3RApa/view) and thank you for taking the time to look over my profile.
