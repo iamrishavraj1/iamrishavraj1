@@ -1,12 +1,14 @@
-## Hi there and welcome to my profile 👋 !
-I'm Rishav Raj, a developer and final-year mechanical engineering student who discovered his true interest in programming. I've always been fascinated by how computers and mobile applications respond to commands. During my first semester, I learnt about programming and began teaching myself how to code. After a few weeks, I realised that this is what I wanted to pursue with my life, and I fell in love with the beauty of programming. It requires a blend of creative and logical problem-solving abilities, and there is always something new to learn.
+# Rishav Raj - Developer
 
-I have in-depth knowledge of **Frontend Development** and currently, I am learning **Full Stack Development**, **Data Structures**, and **Algorithms**. Apart from this, I also write [Technical Blogs](https://dev.to/iamrishavraj1).
+Hello and welcome to my GitHub profile! I am Rishav Raj, a developer who discovered my interest in programming during my first semester and have been teaching myself ever since. I am constantly seeking new challenges and opportunities to grow my skillset and make a meaningful impact in the field of programming.
 
-### My current specialization in
-+ **Programming Languages**: JavaScript, TypeScript, Java
-+ **Web Technologies**: HTML, CSS, Bootstrap, ReactJS, NextJS, NodeJS, ExpressJS, JWT, RESTful APIs, MVC
-+ **Databases**: MongoDB, Firebase
-+ **Other Tools**: Data Structure & Algorithm, Object-Oriented Programming, Git, Linux, Postman, Agile
+I have a strong foundation in frontend development and am currently expanding my skillset to include full stack development, data structures, and algorithms. Also exploring AWS. I am proficient in several programming languages including JavaScript, TypeScript, and Java, as well as web technologies such as HTML, CSS, Bootstrap, ReactJS, NextJS, NodeJS, ExpressJS, JWT, and RESTful APIs. I am also familiar with databases such as MongoDB and Firebase, and have experience with other tools such as Git, Linux, Postman, and Agile.
 
-### You may discover more about me by reviewing my [Resume](https://drive.google.com/file/d/1rTJX_acxHCo5hoxYEpQmdiQ5Bivzvavd/view) and thank you for taking the time to look over my profile.
+In addition to my technical expertise, I have a keen interest in sharing my knowledge and insights through writing technical blogs. I am committed to staying up-to-date with the latest trends and technologies in the industry.
+
+You can view my resume [here](https://drive.google.com/file/d/1rTJX_acxHCo5hoxYEpQmdiQ5Bivzvavd/view) and my personal website [here](https://iamrishavraj1.netlify.app/). Thank you for taking the time to visit my profile.
+
+Contact:
+- Email: iamrishavraj1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/iamrishavraj1
+- Website: https://iamrishavraj1.netlify.app
