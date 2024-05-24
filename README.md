@@ -1,4 +1,4 @@
-# Rishav Raj - Full Stack Developer
+# Rishav Raj - Full Stack Developer With Specialized in Frontend Engineering with NextJS 
 
 I am a Full Stack Developer with a robust background in software design, development, and integration. I am proficient in in-demand programming languages and skilled at writing clean, efficient code and developing high-quality systems. I excel in both backend and frontend development tasks, with a specialization in frontend development using Next.js, ensuring seamless processes and effective collaboration within teams.
 
