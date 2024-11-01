@@ -7,4 +7,4 @@ I lead the design and implementation of scalable, maintainable web applications 
 Contact:
 - Email: iamrishavraj1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/iamrishavraj1
-- Website: https://iamrishavraj1.netlify.app
+- Website: https://iamrishavraj1.com
