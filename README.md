@@ -1,10 +1,13 @@
-# Full Stack Engineer Specializing in Frontend Development with Next.js
+👋 Hello! I'm Rishav Raj
 
-I am a Full Stack Developer with a strong background in software design, development, and integration. Proficient in various in-demand programming languages, I am skilled at writing clean, efficient code and developing high-quality systems. My expertise spans both backend and frontend development tasks, with a specialization in frontend engineering using Next.js. I ensure seamless processes and effective collaboration within teams.
+I'm a Software Development Engineer (SDE-1) with 2 years of hands-on experience specializing in Frontend Development using Next.js and React.js with JavaScript and TypeScript. My work centers on delivering scalable, elegant software solutions and ensuring seamless integration with backend systems.
 
-I lead the design and implementation of scalable, maintainable web applications with a mobile-first approach. My experience includes creating microservice backend architectures using AWS services and working with cross-functional teams to leverage various technologies, optimize product development, and enhance user experience.
+Throughout my career, I’ve been driven by a passion for creating impactful, user-focused digital experiences. I’m dedicated to maintaining optimal code quality, following best practices, and making each project a cohesive, efficient solution.
 
-Contact:
-- Email: iamrishavraj1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/iamrishavraj1
-- Website: https://iamrishavraj1.com
+📬 Click below to contact me about hiring
+
+Email: iamrishavraj1@gmail.com
+
+Website: www.iamrishavraj1.com
+
+Let’s connect! I’m open to opportunities where I can contribute and grow in a dynamic team environment. If you’re looking for a committed developer focused on innovation and excellence, feel free to reach out!
