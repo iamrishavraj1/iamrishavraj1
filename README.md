@@ -1,35 +1,18 @@
 <img src="assets/terminal.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
 
-<img src="assets/rishav-photo.png" width="230" align="right" alt="Rishav Raj" />
-
 Hi, I'm **Rishav** — a full-stack engineer who got tired of demos that die the moment real data shows up.
 
 By day I build and run production services: Next.js + TypeScript frontends, Python backends. The rest of the time I'm retooling into **AI engineering** — properly, not tutorial-style: retrieval quality you can *measure*, agents that cite their sources, and evals that block a bad PR before it merges.
 
 I like problems where the hard part is honesty. A 300-page SEC filing that *almost* answers your question is more dangerous than one that clearly doesn't — so my projects are built around knowing the difference.
 
-## ☕ Loved something here? Buy me a chai
+## ☕ Support & links
 
 If my work saved you an evening — a chai says it best. Pay what it's worth.
 
-<a href="https://iamrishavraj1.com/#chai">
-  <img src="assets/upi-qr.png" width="170" alt="UPI QR — scan to buy Rishav a chai" />
-</a>
-
-**scan with any UPI app** · `rishavraj2000@yescred`
-
-## 🔗 Quick links
-
-<div align="center">
-  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true"><img src="https://img.shields.io/badge/Book%20a%20call-30%20min%20·%20Google%20Calendar-1F6FEB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
-  <a href="https://iamrishavraj1.com/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-view%20%2F%20save%20PDF-39D2C0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
-  <a href="https://iamrishavraj1.com"><img src="https://img.shields.io/badge/Website-iamrishavraj1.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-</div>
-
-<div align="center">
-  <a href="https://x.com/iamrishavraj1"><img src="https://img.shields.io/badge/X-%40iamrishavraj1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:iamrishavraj1@gmail.com"><img src="https://img.shields.io/badge/Email-iamrishavraj1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+| ☕ Buy me a chai | 🔗 Find me |
+|---|---|
+| <a href="https://iamrishavraj1.com/#chai"><img src="assets/upi-qr.png" width="180" alt="UPI QR — scan to buy Rishav a chai" /></a><br/><sub><b>scan with any UPI app</b><br/><code>rishavraj2000@yescred</code></sub> | 🔗 [iamrishavraj1.com](https://iamrishavraj1.com)<br/>📄 [Résumé — view / save PDF](https://iamrishavraj1.com/resume)<br/>📅 [Book a 30-min call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true)<br/>💻 [github.com/iamrishavraj1](https://github.com/iamrishavraj1)<br/>𝕏 [@iamrishavraj1](https://x.com/iamrishavraj1)<br/>✉️ iamrishavraj1@gmail.com |
 
 ## Building in public
 
