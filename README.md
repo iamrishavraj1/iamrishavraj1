@@ -21,12 +21,12 @@ If my work saved you an evening — a chai says it best. Pay what it's worth.
       <sub><b>scan with any UPI app</b> · <code>rishavraj2000@yescred</code></sub>
     </td>
     <td align="left" valign="middle">
-      🔗 [iamrishavraj1.com](https://iamrishavraj1.com)<br/>
-      📄 [Résumé — view / save PDF](https://iamrishavraj1.com/resume)<br/>
-      📅 [Book a 30-min call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true)<br/>
-      💻 [github.com/iamrishavraj1](https://github.com/iamrishavraj1)<br/>
-      𝕏 [@iamrishavraj1](https://x.com/iamrishavraj1)<br/>
-      ✉️ [iamrishavraj1@gmail.com](mailto:iamrishavraj1@gmail.com)
+      🔗 <a href="https://iamrishavraj1.com">iamrishavraj1.com</a><br/>
+      📄 <a href="https://iamrishavraj1.com/resume">Résumé — view / save PDF</a><br/>
+      📅 <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true">Book a 30-min call</a><br/>
+      💻 <a href="https://github.com/iamrishavraj1">github.com/iamrishavraj1</a><br/>
+      𝕏 <a href="https://x.com/iamrishavraj1">@iamrishavraj1</a><br/>
+      ✉️ <a href="mailto:iamrishavraj1@gmail.com">iamrishavraj1@gmail.com</a>
     </td>
   </tr>
 </table>
