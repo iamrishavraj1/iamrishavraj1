@@ -10,9 +10,26 @@ I like problems where the hard part is honesty. A 300-page SEC filing that *almo
 
 If my work saved you an evening — a chai says it best. Pay what it's worth.
 
-| ☕ Buy me a chai | 🔗 Find me |
-|---|---|
-| <a href="https://iamrishavraj1.com/#chai"><img src="assets/upi-qr.png" width="180" alt="UPI QR — scan to buy Rishav a chai" /></a><br/><sub><b>scan with any UPI app</b><br/><code>rishavraj2000@yescred</code></sub> | 🔗 [iamrishavraj1.com](https://iamrishavraj1.com)<br/>📄 [Résumé — view / save PDF](https://iamrishavraj1.com/resume)<br/>📅 [Book a 30-min call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true)<br/>💻 [github.com/iamrishavraj1](https://github.com/iamrishavraj1)<br/>𝕏 [@iamrishavraj1](https://x.com/iamrishavraj1)<br/>✉️ iamrishavraj1@gmail.com |
+<table width="100%">
+  <tr>
+    <th width="50%">☕ Buy me a chai</th>
+    <th width="50%">🔗 Find me</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://iamrishavraj1.com/#chai"><img src="assets/upi-qr.png" width="210" alt="UPI QR — scan to buy Rishav a chai" /></a><br/>
+      <sub><b>scan with any UPI app</b> · <code>rishavraj2000@yescred</code></sub>
+    </td>
+    <td align="left" valign="middle">
+      🔗 [iamrishavraj1.com](https://iamrishavraj1.com)<br/>
+      📄 [Résumé — view / save PDF](https://iamrishavraj1.com/resume)<br/>
+      📅 [Book a 30-min call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true)<br/>
+      💻 [github.com/iamrishavraj1](https://github.com/iamrishavraj1)<br/>
+      𝕏 [@iamrishavraj1](https://x.com/iamrishavraj1)<br/>
+      ✉️ [iamrishavraj1@gmail.com](mailto:iamrishavraj1@gmail.com)
+    </td>
+  </tr>
+</table>
 
 ## Building in public
 
