@@ -10,7 +10,7 @@ I like problems where the hard part is honesty. A 300-page SEC filing that *almo
 
 ## ☕ Loved something here? Buy me a chai
 
-If a project, a post, or a script of mine saved you an evening — a chai is the simplest way to say *"it worked"*. Pay what it's worth to you.
+If my work saved you an evening — a chai says it best. Pay what it's worth.
 
 <a href="https://iamrishavraj1.com/#chai">
   <img src="assets/upi-qr.png" width="170" alt="UPI QR — scan to buy Rishav a chai" />
