@@ -8,8 +8,6 @@ By day I build and run production services: Next.js + TypeScript frontends, Pyth
 
 I like problems where the hard part is honesty. A 300-page SEC filing that *almost* answers your question is more dangerous than one that clearly doesn't — so my projects are built around knowing the difference.
 
-<div align="center">
-
 ## ☕ Loved something here? Buy me a chai
 
 If a project, a post, or a script of mine saved you an evening — a chai is the simplest way to say *"it worked"*. Pay what it's worth to you.
@@ -19,8 +17,6 @@ If a project, a post, or a script of mine saved you an evening — a chai is the
 </a>
 
 **scan with any UPI app** · `rishavraj2000@yescred`
-
-</div>
 
 ## 🔗 Quick links
 
