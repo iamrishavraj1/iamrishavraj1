@@ -20,13 +20,12 @@ If my work saved you an evening — a chai says it best. Pay what it's worth.
       <a href="https://iamrishavraj1.com/#chai"><img src="assets/upi-qr.png" width="210" alt="UPI QR — scan to buy Rishav a chai" /></a><br/>
       <sub><b>scan with any UPI app</b> · <code>rishavraj2000@yescred</code></sub>
     </td>
-    <td align="left" valign="middle">
-      🔗 <a href="https://iamrishavraj1.com">iamrishavraj1.com</a><br/>
-      📄 <a href="https://iamrishavraj1.com/resume">Résumé — view / save PDF</a><br/>
-      📅 <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true">Book a 30-min call</a><br/>
-      💻 <a href="https://github.com/iamrishavraj1">github.com/iamrishavraj1</a><br/>
-      𝕏 <a href="https://x.com/iamrishavraj1">@iamrishavraj1</a><br/>
-      ✉️ <a href="mailto:iamrishavraj1@gmail.com">iamrishavraj1@gmail.com</a>
+    <td align="center" valign="middle">
+      <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true"><img src="https://img.shields.io/badge/Book%20a%20call-30%20min%20·%20Google%20Calendar-1F6FEB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a><br/>
+      <a href="https://iamrishavraj1.com/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-view%20%2F%20save%20PDF-39D2C0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a><br/>
+      <a href="https://iamrishavraj1.com"><img src="https://img.shields.io/badge/Website-iamrishavraj1.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a><br/>
+      <a href="https://x.com/iamrishavraj1"><img src="https://img.shields.io/badge/X-%40iamrishavraj1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a><br/>
+      <a href="mailto:iamrishavraj1@gmail.com"><img src="https://img.shields.io/badge/Email-iamrishavraj1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     </td>
   </tr>
 </table>
