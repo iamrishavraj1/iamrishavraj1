@@ -6,6 +6,28 @@ By day I build and run production services: Next.js + TypeScript frontends, Pyth
 
 I like problems where the hard part is honesty. A 300-page SEC filing that *almost* answers your question is more dangerous than one that clearly doesn't — so my projects are built around knowing the difference.
 
+## ☕ Loved something here? Buy me a chai
+
+If a project, a post, or a script of mine saved you an evening — a chai is the simplest way to say *"it worked"*. Pay what it's worth to you.
+
+<div align="center">
+  <a href="https://iamrishavraj1.com/#chai">
+    <img src="assets/upi-qr.png" width="170" alt="UPI QR — scan to buy Rishav a chai" />
+  </a>
+  <br/>
+  <sub>scan with any UPI app · <code>rishavraj2000@yescred</code></sub>
+</div>
+
+## 🔗 Quick links
+
+<div align="center">
+  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true"><img src="https://img.shields.io/badge/Book%20a%20call-30%20min%20·%20Google%20Calendar-1F6FEB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
+  <a href="https://iamrishavraj1.com/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-view%20%2F%20save%20PDF-39D2C0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
+  <a href="https://iamrishavraj1.com"><img src="https://img.shields.io/badge/Website-iamrishavraj1.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/iamrishavraj1"><img src="https://img.shields.io/badge/X-%40iamrishavraj1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:iamrishavraj1@gmail.com"><img src="https://img.shields.io/badge/Email-iamrishavraj1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
 ## Building in public
 
 ### 🚧 [fin-research-agent](https://github.com/iamrishavraj1/fin-research-agent) — AI research assistant over SEC filings
@@ -49,28 +71,6 @@ Speaks questions out loud (Ollama · qwen3:14b), listens to spoken answers (fast
 
 **Frontend** Next.js · React · TypeScript · Tailwind &nbsp;|&nbsp; **Backend** Python · FastAPI · Postgres + pgvector &nbsp;|&nbsp; **Ops** Docker · GitHub Actions &nbsp;|&nbsp; **AI** Ollama · OpenAI-compatible APIs · faster-whisper
 
-## ☕ Buy me a chai
+---
 
-If a project, a post, or a script of mine saved you an evening — a chai is the simplest way
-to say *"it worked"*. Pay what it's worth to you.
-
-<div align="center">
-  <a href="https://iamrishavraj1.com/#chai">
-    <img src="assets/upi-qr.png" width="190" alt="UPI QR — scan to buy Rishav a chai" />
-  </a>
-  <br/>
-  <sub>scan with any UPI app · <code>rishavraj2000@yescred</code></sub>
-</div>
-
-## 📮 Reach me
-
-<div align="center">
-  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true"><img src="https://img.shields.io/badge/Book%20a%20call-30%20min%20·%20Google%20Calendar-1F6FEB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
-  <a href="https://iamrishavraj1.com/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-view%20%2F%20save%20PDF-39D2C0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
-</div>
-
-<div align="center">
-  <a href="mailto:iamrishavraj1@gmail.com"><img src="https://img.shields.io/badge/Email-iamrishavraj1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://iamrishavraj1.com"><img src="https://img.shields.io/badge/Website-iamrishavraj1.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://x.com/iamrishavraj1"><img src="https://img.shields.io/badge/X-%40iamrishavraj1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</div>
+*Built by hand — no framework for the profile, Next.js for [the site](https://iamrishavraj1.com).*
