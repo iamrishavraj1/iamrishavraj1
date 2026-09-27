@@ -1,6 +1,6 @@
-<img src="assets/terminal3.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
+<img src="assets/terminal4.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
 
-`$ open ./projects` → [`fin-research-agent/`](https://github.com/iamrishavraj1/fin-research-agent) · [`speakloop/`](https://github.com/iamrishavraj1/speakloop) · [`iamrishavraj1.com`](https://iamrishavraj1.com) · [`résumé`](https://iamrishavraj1.com/resume)
+`$ open ./projects` → [`fin-research-agent/`](https://github.com/iamrishavraj1/fin-research-agent) · [`looptalk/`](https://github.com/iamrishavraj1/looptalk) · [`iamrishavraj1.com`](https://iamrishavraj1.com) · [`résumé`](https://iamrishavraj1.com/resume)
 
 Hi, I'm **Rishav** — a full-stack engineer who got tired of demos that die the moment real data shows up.
 
@@ -59,7 +59,7 @@ flowchart LR
 - An eval suite that gates CI — the part most RAG repos skip
 - Architecture, docs and eval design are up; code lands week by week
 
-### ✅ [SpeakLoop](https://github.com/iamrishavraj1/speakloop) — AI speaking coach, 100% on my machine
+### ✅ [LoopTalk](https://github.com/iamrishavraj1/looptalk) — AI speaking coach, 100% on my machine
 
 Speaks questions out loud (Ollama · qwen3:14b), listens to spoken answers (faster-whisper), and coaches: score /10, filler-word counter, STAR-mode feedback. ₹0 per session, works offline. The interesting bit is the design — the **server** runs the interview (question order, when to push), the LLM only converses. Deterministic control, natural feel.
 
