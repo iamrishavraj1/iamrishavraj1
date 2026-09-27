@@ -1,4 +1,4 @@
-<img src="assets/terminal4.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
+<img src="assets/terminal5.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
 
 `$ open ./projects` → [`fin-research-agent/`](https://github.com/iamrishavraj1/fin-research-agent) · [`looptalk/`](https://github.com/iamrishavraj1/looptalk) · [`iamrishavraj1.com`](https://iamrishavraj1.com) · [`résumé`](https://iamrishavraj1.com/resume)
 
