@@ -17,10 +17,14 @@ If my work saved you an evening — a chai says it best. Pay what it's worth.
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://iamrishavraj1.com/#chai"><img src="assets/upi-qr.png" width="210" alt="UPI QR — scan to buy Rishav a chai" /></a><br/>
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" width="400" height="1" alt="" />
+      <br/>
+      <a href="https://iamrishavraj1.com/#chai"><img src="assets/upi-qr.png" width="230" alt="UPI QR — scan to buy Rishav a chai" /></a><br/>
       <sub><b>scan with any UPI app</b> · <code>rishavraj2000@yescred</code></sub>
     </td>
     <td align="center" valign="middle">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" width="400" height="1" alt="" />
+      <br/>
       <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kA3Y1K7TJHi3QfMzpYdrI58PUyLqkXSbcx34Dfn5VQiBcoy3CHHkBwRSqUYuE6Cidih66Ahns?gv=true"><img src="https://img.shields.io/badge/Book%20a%20call-30%20min%20·%20Google%20Calendar-1F6FEB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a><br/>
       <a href="https://iamrishavraj1.com/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-view%20%2F%20save%20PDF-39D2C0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a><br/>
       <a href="https://iamrishavraj1.com"><img src="https://img.shields.io/badge/Website-iamrishavraj1.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a><br/>
