@@ -1,5 +1,7 @@
 <img src="assets/terminal.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
 
+<img src="assets/rishav-photo.png" width="230" align="right" alt="Rishav Raj" />
+
 Hi, I'm **Rishav** — a full-stack engineer who got tired of demos that die the moment real data shows up.
 
 By day I build and run production services: Next.js + TypeScript frontends, Python backends. The rest of the time I'm retooling into **AI engineering** — properly, not tutorial-style: retrieval quality you can *measure*, agents that cite their sources, and evals that block a bad PR before it merges.
