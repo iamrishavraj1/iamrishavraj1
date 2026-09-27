@@ -1,5 +1,7 @@
 <img src="assets/terminal.svg" width="100%" alt="Rishav Raj — full-stack engineer" />
 
+`$ open ./projects` → [`fin-research-agent/`](https://github.com/iamrishavraj1/fin-research-agent) · [`interview-buddy/`](https://github.com/iamrishavraj1/interview-buddy) · [`iamrishavraj1.com`](https://iamrishavraj1.com) · [`résumé`](https://iamrishavraj1.com/resume)
+
 Hi, I'm **Rishav** — a full-stack engineer who got tired of demos that die the moment real data shows up.
 
 By day I build and run production services: Next.js + TypeScript frontends, Python backends. The rest of the time I'm retooling into **AI engineering** — properly, not tutorial-style: retrieval quality you can *measure*, agents that cite their sources, and evals that block a bad PR before it merges.
