@@ -59,7 +59,7 @@ flowchart LR
 - An eval suite that gates CI — the part most RAG repos skip
 - Architecture, docs and eval design are up; code lands week by week
 
-### ✅ [interview-buddy](https://github.com/iamrishavraj1/interview-buddy) — mock interviews that run 100% on my Mac
+### ✅ [SpeakLoop](https://github.com/iamrishavraj1/speakloop) — mock interviews that run 100% on my Mac
 
 Speaks questions out loud (Ollama · qwen3:14b), listens to spoken answers (faster-whisper), and coaches: score /10, filler-word counter, STAR-mode feedback. ₹0 per session, works offline. The interesting bit is the design — the **server** runs the interview (question order, when to push), the LLM only converses. Deterministic control, natural feel.
 
